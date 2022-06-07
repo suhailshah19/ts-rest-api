@@ -1,6 +1,6 @@
 export default {
     port: 1337,
-    dbUri: "mongodb+srv://jibas:snnurubed180800@cluster0.nzx4i.mongodb.net/?retryWrites=true&w=majority",
+    dbUri: "",
     saltWorkFactor: 10,
     accessTokenTtl: '15m',
     refreshTokenTtl: '1y', 
